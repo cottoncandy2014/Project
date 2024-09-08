@@ -1,0 +1,6 @@
+secretInfo.txt
+.DS_Store
+
+# * = wild card
+# *.txt
+# removes all text files
